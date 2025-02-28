@@ -40,4 +40,14 @@ https://github.com/nobody-famous/alive
 
 https://github.com/qingpeng9802/vscode-common-lisp
 
+### Aliveの操作
 
+Aliveの操作については、
+
+公式のリポジトリの`README`や、ネット上の記事をご参照ください。
+
+公式リポジトリ
+https://github.com/nobody-famous/alive?tab=readme-ov-file
+
+参考記事
+https://zenn.dev/k41531/articles/6a68fa6f1bb08c
