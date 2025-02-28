@@ -1,0 +1,26 @@
+.env
+
+#---- Clojure -----
+.clj-kondo
+.lsp
+#--------------
+
+#---- node.js -----
+node_modules/
+#--------------
+
+#---- Rust -----
+target
+#--------------
+
+#---- mac -----
+.DS_Store
+#--------------
+
+#--- Terraform ---
+.terraform
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+.tfplan
+#-----------------
